@@ -14,7 +14,7 @@ form of reports and need to go to a reporting email address or can be sent to
 someone's inbox to notify them.
 
 ## Requirements
-- PowerShell >= v2
+- PowerShell >= v3
 
 ## Usage
 - Add any additional logic to turn on HTML embedding in the email or to disable
@@ -46,6 +46,11 @@ encounter any problems, please log an
 5. Submit a pull request ツ
 
 ## History
+-  version 1.0.1 - 2021/06/08
+    - Added support for multiple config files
+    - Updated README.md
+
+
 -  version 1.0.0 - 2021/06/02
     - Initial release
 

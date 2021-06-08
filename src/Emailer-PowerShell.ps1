@@ -6,7 +6,7 @@
 $DATE = Get-Date
 
 # Get global config parameters from config.ini.
-$CONFIG = Get-IniFile $PSScriptRoot\..\config.ini
+$CONFIG = Get-IniFile $PSScriptRoot\..\configs\Emailer-PowerShell-config.ini
 
 # Prepare SMTP-related variables from the config file.
 $SMTP_SERVER = $CONFIG.SMTPInfo.server
