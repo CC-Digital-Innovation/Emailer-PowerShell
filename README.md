@@ -46,6 +46,10 @@ encounter any problems, please log an
 5. Submit a pull request ツ
 
 ## History
+-  version 1.0.2 - 2022/11/16
+     - Removed license from README.md (already a LICENSE file)
+
+
 -  version 1.0.1 - 2021/06/08
     - Added support for multiple config files
     - Updated README.md
